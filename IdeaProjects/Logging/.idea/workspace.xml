@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a4aa46a-5e97-4219-a369-33c13878110e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/PorscheTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#shouldCloneStringArray#0;class#PorscheTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Porsche.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="43" column="83" selection-start-line="43" selection-start-column="83" selection-end-line="43" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/BMW.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+              <folding>
+                <element signature="e#1700#1701#0" expanded="true" />
+                <element signature="e#1784#1785#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Name.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/ImmutableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Color.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+              <folding>
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/CarServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/CarServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.fxml" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/logback-test.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/CarServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CarSelector.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/CarSelectorTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/CarState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/CarSelector.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Mercedes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Loggable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Property.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Assets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/CarService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ZooTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/ZooTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Printable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Loggable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Tiger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Gorilla.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Lion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/CarService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/PorscheTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/BMW.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/ImmutableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Porsche.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Color.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Name.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/CarServiceTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547287563034" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/shahrukh/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Inheritance" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SHAH-PC\IdeaProjects\Logging\src\test\java\com\shahrukh\java\zoo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.shahrukh.java.zoo" />
+      <recent name="com.shahrukh.java.logging" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ImmutableTest.demonstrateImmutableString">
+    <configuration name="CarServiceTest.shouldDemonstrateInterfaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shahrukh.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shahrukh.java.logging" />
+      <option name="MAIN_CLASS_NAME" value="com.shahrukh.java.logging.CarServiceTest" />
+      <option name="METHOD_NAME" value="shouldDemonstrateInterfaces" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableTest.demonstrateImmutableString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shahrukh.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shahrukh.java.logging" />
+      <option name="MAIN_CLASS_NAME" value="com.shahrukh.java.logging.ImmutableTest" />
+      <option name="METHOD_NAME" value="demonstrateImmutableString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PorscheTest.shouldClonePorsche" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shahrukh.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shahrukh.java.logging" />
+      <option name="MAIN_CLASS_NAME" value="com.shahrukh.java.logging.PorscheTest" />
+      <option name="METHOD_NAME" value="shouldClonePorsche" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PorscheTest.shouldCloneStringArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shahrukh.java.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shahrukh.java.logging" />
+      <option name="MAIN_CLASS_NAME" value="com.shahrukh.java.logging.PorscheTest" />
+      <option name="METHOD_NAME" value="shouldCloneStringArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooTest.shouldFeedAllAnimals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shahrukh.java.zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shahrukh.java.zoo" />
+      <option name="MAIN_CLASS_NAME" value="com.shahrukh.java.zoo.ZooTest" />
+      <option name="METHOD_NAME" value="shouldFeedAllAnimals" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CarServiceTest.shouldDemonstrateInterfaces" />
+      <item itemvalue="JUnit.PorscheTest.shouldClonePorsche" />
+      <item itemvalue="JUnit.PorscheTest.shouldCloneStringArray" />
+      <item itemvalue="JUnit.ZooTest.shouldFeedAllAnimals" />
+      <item itemvalue="JUnit.ImmutableTest.demonstrateImmutableString" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ImmutableTest.demonstrateImmutableString" />
+        <item itemvalue="JUnit.PorscheTest.shouldClonePorsche" />
+        <item itemvalue="JUnit.PorscheTest.shouldCloneStringArray" />
+        <item itemvalue="JUnit.ZooTest.shouldFeedAllAnimals" />
+        <item itemvalue="JUnit.CarServiceTest.shouldDemonstrateInterfaces" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a4aa46a-5e97-4219-a369-33c13878110e" name="Default Changelist" comment="" />
+      <created>1546700139805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546700139805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CarServiceTest_shouldDemonstrateInterfaces - 2019.01.11 at 13h 28m 00s.xml">
+      <configuration name="CarServiceTest.shouldDemonstrateInterfaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarServiceTest_shouldDemonstrateInterfaces - 2019.01.11 at 15h 46m 48s.xml">
+      <configuration name="CarServiceTest.shouldDemonstrateInterfaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PorscheTest_shouldCloneStringArray - 2019.01.12 at 01h 18m 30s.xml">
+      <configuration name="PorscheTest.shouldCloneStringArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PorscheTest_shouldCloneStringArray - 2019.01.12 at 01h 19m 54s.xml">
+      <configuration name="PorscheTest.shouldCloneStringArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PorscheTest_shouldCloneStringArray - 2019.01.12 at 01h 21m 38s.xml">
+      <configuration name="PorscheTest.shouldCloneStringArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PorscheTest_shouldClonePorsche - 2019.01.12 at 01h 40m 48s.xml">
+      <configuration name="PorscheTest.shouldClonePorsche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PorscheTest_shouldClonePorsche - 2019.01.12 at 01h 50m 42s.xml">
+      <configuration name="PorscheTest.shouldClonePorsche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PorscheTest_shouldClonePorsche - 2019.01.12 at 01h 52m 52s.xml">
+      <configuration name="PorscheTest.shouldClonePorsche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PorscheTest_shouldClonePorsche - 2019.01.12 at 01h 53m 33s.xml">
+      <configuration name="PorscheTest.shouldClonePorsche" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PorscheTest_shouldClonePorsche - 2019.01.12 at 01h 55m 08s.xml">
+      <configuration name="PorscheTest.shouldClonePorsche" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="697" height="745" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.6138148" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8037677" weight="0.3267974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.19623233" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.17156863" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/logback-test.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/CarServiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/CarSelectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/CarState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Asset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Mercedes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/CarSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Loggable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Zoo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Tiger.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Printable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Lion.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Gorilla.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/CarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Loggable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/Zoo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/Tiger.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/Loggable.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/Gorilla.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/Animal.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/Lion.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/Printable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/zoo/Animal.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/zoo/ZooTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/CarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Porsche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="83" selection-start-line="43" selection-start-column="83" selection-end-line="43" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/CarServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/ImmutableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shahrukh/java/logging/PorscheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#shouldCloneStringArray#0;class#PorscheTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shahrukh/java/logging/BMW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="e#1700#1701#0" expanded="true" />
+            <element signature="e#1784#1785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Logging</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.0.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
